@@ -82,6 +82,10 @@ Tasks can be created, updated, completed, reopened, searched, filtered, and dele
 
 This frontend communicates with a separate Node.js and Express REST API.
 
+Backend repository:
+
+https://github.com/EmreSenkaya-1713/TaskManagementAPI
+
 The backend includes:
 
 - Express.js
